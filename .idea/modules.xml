@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Simple-Project.iml" filepath="$PROJECT_DIR$/.idea/Simple-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-admin/simple-admin.iml" filepath="$PROJECT_DIR$/simple-admin/simple-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-common/simple-common.iml" filepath="$PROJECT_DIR$/simple-common/simple-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-framework/simple-framework.iml" filepath="$PROJECT_DIR$/simple-framework/simple-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-generator/simple-generator.iml" filepath="$PROJECT_DIR$/simple-generator/simple-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-quartz/simple-quartz.iml" filepath="$PROJECT_DIR$/simple-quartz/simple-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-system/simple-system.iml" filepath="$PROJECT_DIR$/simple-system/simple-system.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="simple-system" />
+        <module name="simple-generator" />
+        <module name="simple-quartz" />
+        <module name="simple-admin" />
+        <module name="simple-framework" />
+        <module name="simple-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="simple-admin" target="1.8" />
+      <module name="simple-common" target="1.8" />
+      <module name="simple-framework" target="1.8" />
+      <module name="simple-generator" target="1.8" />
+      <module name="Simple-Project" target="1.8" />
+      <module name="simple-quartz" target="1.8" />
+      <module name="simple-system" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

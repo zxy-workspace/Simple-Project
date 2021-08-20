@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12191733-736c-4913-8954-6e72288b8102" name="Default Changelist" comment="首次提交（框架初始化完毕）" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/workspace/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/workspace/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pVtrxQm9pqJ19BzEe9FySZKQ4w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.41953385" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/simple-common/src/main/java/com/simple/common/old.jsp" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/simple-admin/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SimpleProjectApplication">
+    <configuration name="ConfimAck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.simple.web.controller.message.ConfimAck" />
+      <module name="simple-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simple.web.controller.message.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.simple.web.controller.text" />
+      <module name="simple-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simple.web.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="simple-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simple.SimpleProjectApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConfimAck" />
+        <item itemvalue="Application.text" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12191733-736c-4913-8954-6e72288b8102" name="Default Changelist" comment="" />
+      <created>1615280287973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615280287973</updated>
+      <workItem from="1615280292244" duration="1841000" />
+      <workItem from="1615284697154" duration="85000" />
+      <workItem from="1615341170735" duration="217000" />
+      <workItem from="1617094351710" duration="1814000" />
+      <workItem from="1617154330870" duration="2554000" />
+      <workItem from="1617176979936" duration="5000" />
+      <workItem from="1617767897605" duration="445000" />
+      <workItem from="1617774880184" duration="188000" />
+      <workItem from="1617775092245" duration="4421000" />
+      <workItem from="1617779567174" duration="1579000" />
+      <workItem from="1617781168098" duration="3398000" />
+      <workItem from="1617787570276" duration="1140000" />
+      <workItem from="1617788828334" duration="1141000" />
+      <workItem from="1617844479574" duration="309000" />
+      <workItem from="1617844794459" duration="2860000" />
+      <workItem from="1618194455593" duration="3402000" />
+      <workItem from="1618219618619" duration="1285000" />
+      <workItem from="1618383075943" duration="1748000" />
+      <workItem from="1618388121194" duration="2556000" />
+      <workItem from="1618449215185" duration="3211000" />
+      <workItem from="1618475148341" duration="2782000" />
+      <workItem from="1618541995043" duration="4363000" />
+      <workItem from="1618557627365" duration="1093000" />
+      <workItem from="1618793952775" duration="21864000" />
+      <workItem from="1618967014836" duration="2618000" />
+      <workItem from="1619053012866" duration="8411000" />
+      <workItem from="1619141803551" duration="5959000" />
+      <workItem from="1619311845572" duration="1734000" />
+      <workItem from="1619344704515" duration="5276000" />
+      <workItem from="1619424472504" duration="1128000" />
+      <workItem from="1619430569797" duration="322000" />
+      <workItem from="1619485470595" duration="3801000" />
+      <workItem from="1619593127965" duration="12586000" />
+      <workItem from="1619657990833" duration="11114000" />
+      <workItem from="1620263166055" duration="248000" />
+      <workItem from="1620611696251" duration="4335000" />
+      <workItem from="1620617269001" duration="2821000" />
+      <workItem from="1620631754867" duration="1571000" />
+      <workItem from="1620634595288" duration="713000" />
+      <workItem from="1620635431054" duration="21000" />
+      <workItem from="1622099953037" duration="1205000" />
+      <workItem from="1622688196841" duration="38000" />
+      <workItem from="1623048796058" duration="14000" />
+      <workItem from="1623054114098" duration="306000" />
+      <workItem from="1623116513677" duration="26000" />
+      <workItem from="1629442979034" duration="1019000" />
+      <workItem from="1629445678894" duration="2735000" />
+      <workItem from="1629448439548" duration="1026000" />
+    </task>
+    <task id="LOCAL-00001" summary="首次提交（框架初始化完毕）">
+      <created>1617845476395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617845476395</updated>
+    </task>
+    <task id="LOCAL-00002" summary="初始化项目配置">
+      <created>1618910993544</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618910993544</updated>
+    </task>
+    <task id="LOCAL-00003" summary="整合rabbitmq,并配置topic和direct交换机及队列，添加生产消息、消费消息相关接口">
+      <created>1619601112909</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619601112909</updated>
+    </task>
+    <task id="LOCAL-00004" summary="消息队列增加手动配置，手动确认是否成功发送消息到交换机，交换机是否成功发送消息到队列">
+      <created>1619664733640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619664733640</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改项目信息">
+      <created>1629448167548</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629448167548</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="首次提交（框架初始化完毕）" />
+    <MESSAGE value="初始化项目配置" />
+    <MESSAGE value="整合rabbitmq,并配置topic和direct交换机及队列，添加生产消息、消费消息相关接口" />
+    <MESSAGE value="消息队列增加手动配置，手动确认是否成功发送消息到交换机，交换机是否成功发送消息到队列" />
+    <MESSAGE value="修改项目信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改项目信息" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="847" y="383" key="#Notifications" timestamp="1629448267486">
+      <screen x="0" y="25" width="1920" height="983" />
+    </state>
+    <state x="847" y="383" key="#Notifications/0.25.1920.983@0.25.1920.983" timestamp="1629448267486" />
+    <state x="818" y="417" key="Github.ShareDialog" timestamp="1629449423198">
+      <screen x="0" y="25" width="1920" height="983" />
+    </state>
+    <state x="818" y="417" key="Github.ShareDialog/0.25.1920.983@0.25.1920.983" timestamp="1629449423198" />
+    <state width="1878" height="191" key="GridCell.Tab.0.bottom" timestamp="1629448432920">
+      <screen x="0" y="25" width="1920" height="983" />
+    </state>
+    <state width="1878" height="191" key="GridCell.Tab.0.bottom/0.25.1920.983@0.25.1920.983" timestamp="1629448432920" />
+    <state width="1878" height="191" key="GridCell.Tab.0.center" timestamp="1629448432919">
+      <screen x="0" y="25" width="1920" height="983" />
+    </state>
+    <state width="1878" height="191" key="GridCell.Tab.0.center/0.25.1920.983@0.25.1920.983" timestamp="1629448432919" />
+    <state width="1878" height="191" key="GridCell.Tab.0.left" timestamp="1629448432919">
+      <screen x="0" y="25" width="1920" height="983" />
+    </state>
+    <state width="1878" height="191" key="GridCell.Tab.0.left/0.25.1920.983@0.25.1920.983" timestamp="1629448432919" />
+    <state width="1878" height="191" key="GridCell.Tab.0.right" timestamp="1629448432920">
+      <screen x="0" y="25" width="1920" height="983" />
+    </state>
+    <state width="1878" height="191" key="GridCell.Tab.0.right/0.25.1920.983@0.25.1920.983" timestamp="1629448432920" />
+    <state width="1878" height="191" key="GridCell.Tab.1.bottom" timestamp="1629448432921">
+      <screen x="0" y="25" width="1920" height="983" />
+    </state>
+    <state width="1878" height="191" key="GridCell.Tab.1.bottom/0.25.1920.983@0.25.1920.983" timestamp="1629448432921" />
+    <state width="1878" height="191" key="GridCell.Tab.1.center" timestamp="1629448432920">
+      <screen x="0" y="25" width="1920" height="983" />
+    </state>
+    <state width="1878" height="191" key="GridCell.Tab.1.center/0.25.1920.983@0.25.1920.983" timestamp="1629448432920" />
+    <state width="1878" height="191" key="GridCell.Tab.1.left" timestamp="1629448432920">
+      <screen x="0" y="25" width="1920" height="983" />
+    </state>
+    <state width="1878" height="191" key="GridCell.Tab.1.left/0.25.1920.983@0.25.1920.983" timestamp="1629448432920" />
+    <state width="1878" height="191" key="GridCell.Tab.1.right" timestamp="1629448432921">
+      <screen x="0" y="25" width="1920" height="983" />
+    </state>
+    <state width="1878" height="191" key="GridCell.Tab.1.right/0.25.1920.983@0.25.1920.983" timestamp="1629448432921" />
+    <state x="469" y="152" key="SettingsEditor" timestamp="1629449519029">
+      <screen x="0" y="25" width="1920" height="983" />
+    </state>
+    <state x="469" y="152" key="SettingsEditor/0.25.1920.983@0.25.1920.983" timestamp="1629449519029" />
+    <state x="560" y="253" key="Vcs.Push.Dialog.v2" timestamp="1629448281967">
+      <screen x="0" y="25" width="1920" height="983" />
+    </state>
+    <state x="560" y="253" key="Vcs.Push.Dialog.v2/0.25.1920.983@0.25.1920.983" timestamp="1629448281967" />
+    <state x="659" y="271" width="813" height="490" key="find.popup" timestamp="1629448732579">
+      <screen x="0" y="25" width="1920" height="983" />
+    </state>
+    <state x="659" y="271" width="813" height="490" key="find.popup/0.25.1920.983@0.25.1920.983" timestamp="1629448732579" />
+    <state x="798" y="311" width="886" height="410" key="svn.repositoryBrowser" timestamp="1629449313468">
+      <screen x="0" y="25" width="1920" height="983" />
+    </state>
+    <state x="798" y="311" width="886" height="410" key="svn.repositoryBrowser/0.25.1920.983@0.25.1920.983" timestamp="1629449313468" />
+    <state x="735" y="294" key="svn4idea.import.options" timestamp="1629449270024">
+      <screen x="0" y="25" width="1920" height="983" />
+    </state>
+    <state x="735" y="294" key="svn4idea.import.options/0.25.1920.983@0.25.1920.983" timestamp="1629449270024" />
+  </component>
+</project>
